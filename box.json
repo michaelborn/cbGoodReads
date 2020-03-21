@@ -1,0 +1,8 @@
+{
+    "dependencies":{
+        "hyper":"^2.1.1"
+    },
+    "installPaths":{
+        "hyper":"modules/hyper/"
+    }
+}
